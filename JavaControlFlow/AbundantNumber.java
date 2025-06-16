@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Program to check if a number is an Abundant Number..
+ * Program to check if a number is an Abundant Number...
  */
 public class AbundantNumber {
     /**
