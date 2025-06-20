@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class AthleteRounds {
 
-    //Methods to calculate the total round athlete needs to complete 5km
+    //Methods to calculate the total round athlete needs to complete 5Km
     public int calculateRounds(double sideA,double sideB,double sideC) {
         double perimeterOfTriangle = sideA+sideB+sideC;
         return (int) Math.ceil(5.0 /perimeterOfTriangle);
