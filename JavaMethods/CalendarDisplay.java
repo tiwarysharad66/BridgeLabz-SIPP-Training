@@ -5,7 +5,7 @@ import java.util.Calendar;
 
 public class CalendarDisplay {
 
-    // Check if the given year is a leap year
+    // Check if the given year is a leap yearr
     public static boolean isLeapYear(int year) {
         return (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
     }
