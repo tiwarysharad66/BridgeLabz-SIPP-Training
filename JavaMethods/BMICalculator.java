@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class BMICalculator {
 
-    // Method to calculate BMI for each person and update the array
+    // Method to calculate BMI for each person and updates the array
     public static void calculateBMI(double[][] team) {
         for (int i = 0; i < 10; i++) {
             double heightInMeters = team[i][1] / 100.0;
