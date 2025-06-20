@@ -1,7 +1,7 @@
 package BuildInFunction;
 
 import java.util.Scanner;
-
+//Palindrome Checker
 public class PalindromeChecker {
     static boolean isPalindrome(String s) {
         String reversed = new StringBuilder(s).reverse().toString();
