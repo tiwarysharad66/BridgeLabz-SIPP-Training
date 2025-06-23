@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class CompareStrings {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        //input
         System.out.print("Enter first string: ");
         String s1 = sc.nextLine();
         System.out.print("Enter second string: ");
