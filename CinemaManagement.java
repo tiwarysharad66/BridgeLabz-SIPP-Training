@@ -1,4 +1,5 @@
 import java.util.*;
+//import statements 
 
 public class CinemaManagement {
     public static void main(String[] args) {
