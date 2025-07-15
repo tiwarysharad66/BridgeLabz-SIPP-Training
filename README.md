@@ -30,7 +30,7 @@ Topics: Creating reusable methods, method overloading, returning values, and pas
 
 * 📅 16/06/25 (Mon) – Day 6 – Java Strings<br>
 Topics: Understanding String class, string creation, comparing strings, common string methods (charAt, substring, indexOf, etc.)<br>
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/JavaString)<br>
+🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/tree/Core-Java/StringsPractice)<br>
 
 * 📅 17/06/25 - 18/06/25 (Tue - Wed) – Day 7 – Java Built-In Functions<br>
 Topics: Working with built-in Java libraries: Math (rounding, powers, roots), Arrays utility class, and basic intro to Collections<br>
@@ -101,7 +101,7 @@ Topics: Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchi
 Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Management (Singly Linked List)<br> 
 📘 Scenario:  A courier company tracks parcels through stages like Packed → Shipped → In Transit →
   Delivered. Each stage is a node in a Singly Linked List.
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
+🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTracker.java)<br>
 
 ### 🧩 DSA Branch
 
@@ -127,7 +127,7 @@ Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Managem
 •⁠  ⁠📅 10/07/25 (Thu) – Day 5 – Coding Review<br>
   Problem Statement 6 : 🎓 University Course Enrollment System<br>
   📘 Scenario: Students should be able to enroll in courses, and faculty can assign grades.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
+  🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/blob/Workshop/UniversitySystem.java)<br>
 
 ### 🧩 DSA Branch
 
@@ -140,17 +140,17 @@ Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Managem
 •⁠  ⁠📅 11/07/25 (Fri) – Day 6 – Coding Review<br>
   Problem Statement 7 : 🚕 CabbyGo – A Ride-Hailing App in the Making<br>
   📘 Scenario:   You’ve joined a startup building CabbyGo, a ride-hailing app. You're tasked with building the backend logic for managing vehicles, drivers, and ride booking.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/CabbyGo.java)<br>
+  🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/blob/Workshop/CabbyGo.java)<br>
 
 •⁠  ⁠📅 14/07/25 (Mon) – Day 7 – Coding Review<br>
   Problem Statement 8 : 🌐 Browser History Navigation<br>
   📘 Scenario: Maintain a user’s browsing history with the ability to move back and forth.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
+  🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/blob/Workshop/BrowserHistory.java)<br>
 
 •⁠  ⁠📅 14/07/25 (Tue) – Day 7 – Coding Review<br>
   Problem Statement 9 : 📚 BookShelf – Library Organizer<br>
   📘 Scenario:   Students should be able to enroll in courses, and faculty can assign grades.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/BookShelfMain.java)<br>
+  🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/blob/Workshop/BookShelf.java)<br>
 
 •⁠  ⁠📅 15/07/25 (Tue) – Day 8 – Coding Review<br>
   Problem Statement 10 : 🎵 Music Playlist Queue <br>
