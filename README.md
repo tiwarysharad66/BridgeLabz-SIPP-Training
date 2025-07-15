@@ -30,7 +30,7 @@ Topics: Creating reusable methods, method overloading, returning values, and pas
 
 * 📅 16/06/25 (Mon) – Day 6 – Java Strings<br>
 Topics: Understanding String class, string creation, comparing strings, common string methods (charAt, substring, indexOf, etc.)<br>
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/JavaString)<br>
+🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/tree/Core-Java/StringsPractice)<br>
 
 * 📅 17/06/25 - 18/06/25 (Tue - Wed) – Day 7 – Java Built-In Functions<br>
 Topics: Working with built-in Java libraries: Math (rounding, powers, roots), Arrays utility class, and basic intro to Collections<br>
@@ -79,6 +79,82 @@ Problem Statement 1 : ✈️ Flight Booking System<br>
 Problem Statement 2 : 🎬 CinemaTime – Movie Schedule Manager<br>
 📘 Scenario: A cinema manager wants a tool to store and update a list of movie showtimes and titles. Users should be able to add, view, and search movies.<br>
 🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/blob/Workshop/CinemaManagement.java)<br>
+### 🧱 OOP Branch
 
+•⁠  ⁠📅 01/07/25 (Tue) – Day 5 – Inheritance <br>
+Topics: Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Key Features of Inheritance, Method Overriding, Constructor Inheritance in Java, Polymorphism and Inheritance, Access Modifiers and Inheritance.<br>
+🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/tree/OOP/InheritancePractice)<br>
+
+•⁠  ⁠📅 02/07/25 (Wed) – Day 6 – Encapsulation, Interface, Abstract Classes, and Polymorphism<br>
+  Topics: Encapsulation, Data Hiding, Getter & Setter Method, Compile-Time (Static) Polymorphism, Runtime (Dynamic) Polymorphism, Polymorphism with Interfaces, Polymorphism with Abstract Classes, Casting and instanceof with Polymorphism, Java Interfaces and Abstract Classes.<br>
+  🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/tree/OOP/PillarsOfOOPS)<br>
+
+### 🧩 DSA Branch
+
+•⁠  ⁠📅 03/07/25 (Thu) – Day 1 – Linked List<br>
+  Topics: Introduction of Data Structure, Key Features of Data Structures in Java, Types of Data Structures in Java, Single Linked List, Double Linked List, Circular Linked List.<br>
+  🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/tree/DSA/LinkedListPractice)<br>
+
+### 🛠️ Workshop Branch
+
+•⁠  ⁠📅 04/07/25 (Fri) – Day 4 – Coding Review<br>
+Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Management (Singly Linked List)<br> 
+📘 Scenario:  A courier company tracks parcels through stages like Packed → Shipped → In Transit →
+  Delivered. Each stage is a node in a Singly Linked List.
+🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTracker.java)<br>
+
+### 🧩 DSA Branch
+
+•⁠  ⁠📅 07/07/25 (Mon) – Day 2 – Stack Queue And HashMap<br>
+  Topics: Stacks in Java , Key Characteristics of Stack, Internal Working of Stack, Common Applications of Stack, Common Methods in Stack Class, Advantages of Stacks,Queues in Java,Key Characteristics of a Queue,Common Queue Methods,Ticket Counter Management Using Queue,Applications of Queue,HashMap in Java
+  ,Internal Working of HashMap,Key Methods in HashMap,Performance Considerations,Limitations of HashMap,Common Use Cases,Hashing Function in Java,How to Override hashCode(),Steps for Hashing in Java,Applications of Hashing.<br>
+  🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/tree/DSA/StackQueueHashMapPractice)<br>
+
+•⁠  ⁠📅 08/07/25 (Tue) – Day 3 – HashMap Implementations<br>
+  Topics: Implement a HashMap without collection framework.<br>
+  🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/tree/DSA/StackQueueHashMapPractice)<br>
+
+•⁠  ⁠📅 09/07/25 (Wed) – Day 4 – Sorting Algorithm<br>
+  Topics: Bubble Sort,Insertion Sort,Merge Sort,Quick Sort<br>
+  🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/tree/DSA/SortingAlgo)<br>
+
+•⁠  ⁠📅 10/07/25 (Thu) – Day 5 – Linear And Binary Search<br>
+  Topics: Linear Search,Binary Search,String Builder,String Buffer,File Reader,Input Stream Reader,Linear Search,Binary Search<br>
+  🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/tree/DSA/Linear%26BinarySearch)<br>
+
+### 🛠️ Workshop Branch
+
+•⁠  ⁠📅 10/07/25 (Thu) – Day 5 – Coding Review<br>
+  Problem Statement 6 : 🎓 University Course Enrollment System<br>
+  📘 Scenario: Students should be able to enroll in courses, and faculty can assign grades.<br>
+  🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/blob/Workshop/UniversitySystem.java)<br>
+
+### 🧩 DSA Branch
+
+•⁠  ⁠📅 11/07/25 (Fri) – Day 6 – Algorithm's Runtime Analysis & Big-O Notation<br>
+  Topics: What is Runtime Analysis? , Understanding Big-O Notation, Time Complexity Analysis, Space Complexity Analysis, Best Worst and Average Case Complexities,  Practical Guidelines for Optimizing Java Code<br>
+  🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/tree/DSA/Big-O%20Notation)<br>
+
+### 🛠️ Workshop Branch
+
+•⁠  ⁠📅 11/07/25 (Fri) – Day 6 – Coding Review<br>
+  Problem Statement 7 : 🚕 CabbyGo – A Ride-Hailing App in the Making<br>
+  📘 Scenario:   You’ve joined a startup building CabbyGo, a ride-hailing app. You're tasked with building the backend logic for managing vehicles, drivers, and ride booking.<br>
+  🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/blob/Workshop/CabbyGo.java)<br>
+
+•⁠  ⁠📅 14/07/25 (Mon) – Day 7 – Coding Review<br>
+  Problem Statement 8 : 🌐 Browser History Navigation<br>
+  📘 Scenario: Maintain a user’s browsing history with the ability to move back and forth.<br>
+  🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/blob/Workshop/BrowserHistory.java)<br>
+
+•⁠  ⁠📅 14/07/25 (Tue) – Day 7 – Coding Review<br>
+  Problem Statement 9 : 📚 BookShelf – Library Organizer<br>
+  📘 Scenario:   Students should be able to enroll in courses, and faculty can assign grades.<br>
+  🔗 [Code](https://github.com/tiwarysharad66/BridgeLabz-SIPP-Training/blob/Workshop/BookShelf.java)<br>
+
+•⁠  ⁠📅 15/07/25 (Tue) – Day 8 – Coding Review<br>
+  Problem Statement 10 : 🎵 Music Playlist Queue <br>
+  📘 Scenario: A music player plays songs one after another and can dynamically add/remove songs.<br>
+  🔗 [Coming Soon]()<br>
 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
